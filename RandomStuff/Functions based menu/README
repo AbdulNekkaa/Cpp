@@ -1,1 +1,7 @@
-
+This is a simple code that i made when learning functions in C++,
+The program asks for some number to insert into an array and then shows a menu of options which the user can choose,
+The options are 4: 
+ - Doing the sum of the numbers
+ - Find the biggest number
+ - Calculate the avrg of the numbers
+ - Leave the program
